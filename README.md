@@ -8,7 +8,7 @@
 <li>git checkout main</li>
 <li>git pull origin main </li>
 <li>git merge </li>
-<li>git commit -m "week4" </li>
+<li>git commit -m "week5" </li>
 <li>git push origin main </li>
 </ul>
 
